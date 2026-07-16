@@ -1,12 +1,13 @@
 {
   "name": "mtg-decklist-marketplace",
+  "description": "Tools for reading handwritten Magic: The Gathering limited decklist checklist sheets from photos and exporting them to CSV.",
   "owner": {
     "name": "theBiscuitJesus"
   },
   "plugins": [
     {
       "name": "mtg-decklist",
-      "source": ".",
+      "source": "./",
       "description": "Read handwritten MTG limited decklist checklist sheets from photos and export to CSV."
     }
   ]
