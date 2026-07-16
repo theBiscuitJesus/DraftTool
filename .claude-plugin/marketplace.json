@@ -1,0 +1,13 @@
+{
+  "name": "mtg-decklist-marketplace",
+  "owner": {
+    "name": "theBiscuitJesus"
+  },
+  "plugins": [
+    {
+      "name": "mtg-decklist",
+      "source": ".",
+      "description": "Read handwritten MTG limited decklist checklist sheets from photos and export to CSV."
+    }
+  ]
+}

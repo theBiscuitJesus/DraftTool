@@ -1,0 +1,7 @@
+# Normalize line endings to LF in the repo so the plugin is clean across
+# Windows / macOS / Linux. crop.ps1 works with LF under PowerShell.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary

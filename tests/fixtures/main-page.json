@@ -1,0 +1,100 @@
+{
+  "page": "main",
+  "photo": "main.jpg",
+  "player": {
+    "firstName": "Michael",
+    "lastName": "Steele",
+    "table": "125",
+    "last3": "STE"
+  },
+  "rows": [
+    {
+      "row": 42,
+      "total": 3,
+      "played": 3,
+      "confidence": "high"
+    },
+    {
+      "row": 2,
+      "total": 9,
+      "played": null,
+      "confidence": "high"
+    },
+    {
+      "row": 133,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 4,
+      "total": 8,
+      "played": null,
+      "confidence": "high"
+    },
+    {
+      "row": 88,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 1,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 45,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 46,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 47,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 85,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 86,
+      "total": 2,
+      "played": 2,
+      "confidence": "high"
+    },
+    {
+      "row": 124,
+      "total": 1,
+      "played": 1,
+      "confidence": "high"
+    },
+    {
+      "row": 257,
+      "total": 1,
+      "played": 1,
+      "confidence": "high"
+    },
+    {
+      "row": 190,
+      "total": 1,
+      "played": null,
+      "confidence": "high"
+    }
+  ],
+  "basics": {
+    "plains": 9,
+    "mountain": 7
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "page": "mar",
+  "photo": "mar.jpg",
+  "rows": [
+    { "row": 79, "total": 1, "played": 1, "confidence": "high" },
+    { "row": 80, "total": 1, "played": 1, "confidence": "high" },
+    { "row": 41, "total": 1, "played": 1, "confidence": "high" }
+  ]
+}

@@ -1,0 +1,2363 @@
+{
+  "entries": [
+    {
+      "page": "main",
+      "row": 1,
+      "name": "Agent 13, Sharon Carter",
+      "displayName": "Agent 13, Sharon Carter",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 2,
+      "name": "Agent Maria Hill",
+      "displayName": "Agent Maria Hill",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 3,
+      "name": "Agent of Atlas",
+      "displayName": "Agent of Atlas",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 4,
+      "name": "Agent Phil Coulson",
+      "displayName": "Agent Phil Coulson",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 5,
+      "name": "Agents of S.H.I.E.L.D.",
+      "displayName": "Agents of S.H.I.E.L.D.",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 6,
+      "name": "Avengers Assemble!",
+      "displayName": "Avengers Assemble!",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 7,
+      "name": "Borough Backup",
+      "displayName": "Borough Backup",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 8,
+      "name": "Brave Brawler",
+      "displayName": "Brave Brawler",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 9,
+      "name": "Captain America, Super-Soldier",
+      "displayName": "Captain America, Super-Soldier",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 10,
+      "name": "Captain America, Wings of Freedom",
+      "displayName": "Captain America, Wings of Freedom",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 11,
+      "name": "Captain Marvel, Earth's Protector",
+      "displayName": "Captain Marvel, Earth's Protector",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 12,
+      "name": "Captain Mar-Vell, Space-Born",
+      "displayName": "Captain Mar-Vell, Space-Born",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 13,
+      "name": "Colleen Wing, Street Samurai",
+      "displayName": "Colleen Wing, Street Samurai",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 14,
+      "name": "Crowd of True Believers",
+      "displayName": "Crowd of True Believers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 15,
+      "name": "Helicarrier Strike",
+      "displayName": "Helicarrier Strike",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 16,
+      "name": "Hero in Training",
+      "displayName": "Hero in Training",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 17,
+      "name": "Invisible Woman, Sue Storm",
+      "displayName": "Invisible Woman, Sue Storm",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 18,
+      "name": "Jennifer Walters // The Sensational She-Hulk",
+      "displayName": "Jennifer Walters // The Sensational She-Hulk",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 19,
+      "name": "Kree Commandos",
+      "displayName": "Kree Commandos",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 20,
+      "name": "Luke Cage, Power Man",
+      "displayName": "Luke Cage, Power Man",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 21,
+      "name": "The Mind Stone",
+      "displayName": "The Mind Stone",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 22,
+      "name": "Mockingbird, Ace Agent",
+      "displayName": "Mockingbird, Ace Agent",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 23,
+      "name": "Monica Rambeau // Photon, Living Light",
+      "displayName": "Monica Rambeau // Photon, Living Light",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 24,
+      "name": "Murdock's Crusade",
+      "displayName": "Murdock's Crusade",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 25,
+      "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "displayName": "Nick Fury, Agent of S.H.I.E.L.D.",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 26,
+      "name": "Night Nurse, Healer of Heroes",
+      "displayName": "Night Nurse, Healer of Heroes",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 27,
+      "name": "Okoye, Dora Milaje Leader",
+      "displayName": "Okoye, Dora Milaje Leader",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 28,
+      "name": "Origin of the Avengers",
+      "displayName": "Origin of the Avengers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 29,
+      "name": "Panther Pounce",
+      "displayName": "Panther Pounce",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 30,
+      "name": "Patriot, Shield Wielder",
+      "displayName": "Patriot, Shield Wielder",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 31,
+      "name": "Political Triumph",
+      "displayName": "Political Triumph",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 32,
+      "name": "Quake, Agent of S.H.I.E.L.D.",
+      "displayName": "Quake, Agent of S.H.I.E.L.D.",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 33,
+      "name": "Raft Security Officer",
+      "displayName": "Raft Security Officer",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 34,
+      "name": "Red Guardian, Super-Soldier",
+      "displayName": "Red Guardian, Super-Soldier",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 35,
+      "name": "The Sentry, Golden Guardian",
+      "displayName": "The Sentry, Golden Guardian",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 36,
+      "name": "S.H.I.E.L.D. Spy Kit",
+      "displayName": "S.H.I.E.L.D. Spy Kit",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 37,
+      "name": "Super Villain Lockup",
+      "displayName": "Super Villain Lockup",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 38,
+      "name": "Super-Soldier Serum",
+      "displayName": "Super-Soldier Serum",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 39,
+      "name": "Take Up the Shield",
+      "displayName": "Take Up the Shield",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 40,
+      "name": "Wakandan Drone Flock",
+      "displayName": "Wakandan Drone Flock",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 41,
+      "name": "Web Up",
+      "displayName": "Web Up",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 42,
+      "name": "White Widow, Free Agent",
+      "displayName": "White Widow, Free Agent",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 43,
+      "name": "Aerial Doombot",
+      "displayName": "Aerial Doombot",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 44,
+      "name": "A.I.M. Scientists",
+      "displayName": "A.I.M. Scientists",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 45,
+      "name": "Atlantean Cavalry",
+      "displayName": "Atlantean Cavalry",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 46,
+      "name": "Atlantis Attacks",
+      "displayName": "Atlantis Attacks",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 47,
+      "name": "Attuma, Atlantean Warlord",
+      "displayName": "Attuma, Atlantean Warlord",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 48,
+      "name": "Bold Biochemist",
+      "displayName": "Bold Biochemist",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 49,
+      "name": "Bruce Banner // The Incredible Hulk",
+      "displayName": "Bruce Banner // The Incredible Hulk",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 50,
+      "name": "Depower",
+      "displayName": "Depower",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 51,
+      "name": "Echo, Perceptive Prodigy",
+      "displayName": "Echo, Perceptive Prodigy",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 52,
+      "name": "Falcon, Winged Wonder",
+      "displayName": "Falcon, Winged Wonder",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 53,
+      "name": "Falcon's Wing Harness",
+      "displayName": "Falcon's Wing Harness",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 54,
+      "name": "Frozen in Ice",
+      "displayName": "Frozen in Ice",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 55,
+      "name": "Futurist Forge",
+      "displayName": "Futurist Forge",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 56,
+      "name": "Giant-Sized Flying Ant",
+      "displayName": "Giant-Sized Flying Ant",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 57,
+      "name": "Hydraulic Helper",
+      "displayName": "Hydraulic Helper",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 58,
+      "name": "I Am Iron Man",
+      "displayName": "I Am Iron Man",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 59,
+      "name": "Iron Lad, Diverging Destiny",
+      "displayName": "Iron Lad, Diverging Destiny",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 60,
+      "name": "Ironheart, Clever Champion",
+      "displayName": "Ironheart, Clever Champion",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 61,
+      "name": "Justice, Vance Astrovik",
+      "displayName": "Justice, Vance Astrovik",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 62,
+      "name": "Kang the Conqueror",
+      "displayName": "Kang the Conqueror",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 63,
+      "name": "Kid Loki",
+      "displayName": "Kid Loki",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 64,
+      "name": "Leader, Super-Genius",
+      "displayName": "Leader, Super-Genius",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 65,
+      "name": "Loki, God of Mischief",
+      "displayName": "Loki, God of Mischief",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 66,
+      "name": "Mister Fantastic, Reed Richards",
+      "displayName": "Mister Fantastic, Reed Richards",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 67,
+      "name": "Ms. Marvel, Kamala Khan",
+      "displayName": "Ms. Marvel, Kamala Khan",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 68,
+      "name": "Multiversal Incursion",
+      "displayName": "Multiversal Incursion",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 69,
+      "name": "Namor the Sub-Mariner",
+      "displayName": "Namor the Sub-Mariner",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 70,
+      "name": "Pym Particles",
+      "displayName": "Pym Particles",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 71,
+      "name": "Rewrite History",
+      "displayName": "Rewrite History",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 72,
+      "name": "Secret Invasion",
+      "displayName": "Secret Invasion",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 73,
+      "name": "S.H.I.E.L.D. Deployment Drone",
+      "displayName": "S.H.I.E.L.D. Deployment Drone",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 74,
+      "name": "S.H.I.E.L.D. Flying Car",
+      "displayName": "S.H.I.E.L.D. Flying Car",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 75,
+      "name": "Shuri, Wakandan Inventor",
+      "displayName": "Shuri, Wakandan Inventor",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 76,
+      "name": "Stature, Size Shifter",
+      "displayName": "Stature, Size Shifter",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 77,
+      "name": "Super Intelligence",
+      "displayName": "Super Intelligence",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 78,
+      "name": "Super Suit",
+      "displayName": "Super Suit",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 79,
+      "name": "Thirst for Knowledge",
+      "displayName": "Thirst for Knowledge",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 80,
+      "name": "Tony Stark // The Invincible Iron Man",
+      "displayName": "Tony Stark // The Invincible Iron Man",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 81,
+      "name": "Trickster's Stratagem",
+      "displayName": "Trickster's Stratagem",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 82,
+      "name": "We Say Thee Nay!",
+      "displayName": "We Say Thee Nay!",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 83,
+      "name": "Wiccan, Rising Magician",
+      "displayName": "Wiccan, Rising Magician",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 84,
+      "name": "The Wondrous Wasp",
+      "displayName": "The Wondrous Wasp",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 85,
+      "name": "Agents of HYDRA",
+      "displayName": "Agents of HYDRA",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 86,
+      "name": "Arnim Zola, Bio-Fanatic",
+      "displayName": "Arnim Zola, Bio-Fanatic",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 87,
+      "name": "Baron Helmut Zemo",
+      "displayName": "Baron Helmut Zemo",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 88,
+      "name": "Baron Strucker, HYDRA Overlord",
+      "displayName": "Baron Strucker, HYDRA Overlord",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 89,
+      "name": "Black Widow, Super Spy",
+      "displayName": "Black Widow, Super Spy",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 90,
+      "name": "Construct a Cosmic Cube",
+      "displayName": "Construct a Cosmic Cube",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 91,
+      "name": "Crossbones, Malicious Mercenary",
+      "displayName": "Crossbones, Malicious Mercenary",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 92,
+      "name": "Cruel Alliance",
+      "displayName": "Cruel Alliance",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 93,
+      "name": "Dark Deed",
+      "displayName": "Dark Deed",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 94,
+      "name": "Decoy Ploy",
+      "displayName": "Decoy Ploy",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 95,
+      "name": "Doctor Doom",
+      "displayName": "Doctor Doom",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 96,
+      "name": "Doom Reigns Supreme",
+      "displayName": "Doom Reigns Supreme",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 97,
+      "name": "Elektra, Daughter of the Hand",
+      "displayName": "Elektra, Daughter of the Hand",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 98,
+      "name": "Grim Reaper, Lethal Legionnaire",
+      "displayName": "Grim Reaper, Lethal Legionnaire",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 99,
+      "name": "Hour of Defeat",
+      "displayName": "Hour of Defeat",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 100,
+      "name": "HYDRA Infiltration",
+      "displayName": "HYDRA Infiltration",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 101,
+      "name": "HYDRA Troopers",
+      "displayName": "HYDRA Troopers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 102,
+      "name": "Kingpin's Enforcers",
+      "displayName": "Kingpin's Enforcers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 103,
+      "name": "Klaw, Sonic Subjugator",
+      "displayName": "Klaw, Sonic Subjugator",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 104,
+      "name": "Madame Masque",
+      "displayName": "Madame Masque",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 105,
+      "name": "The Masters of Evil",
+      "displayName": "The Masters of Evil",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 106,
+      "name": "M.O.D.O.K.",
+      "displayName": "M.O.D.O.K.",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 107,
+      "name": "Moonstone, Harsh Mistress",
+      "displayName": "Moonstone, Harsh Mistress",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 108,
+      "name": "Ninja of the Hand",
+      "displayName": "Ninja of the Hand",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 109,
+      "name": "Project Deathlok Soldier",
+      "displayName": "Project Deathlok Soldier",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 110,
+      "name": "Red Room Recruit",
+      "displayName": "Red Room Recruit",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 111,
+      "name": "Robot Domination",
+      "displayName": "Robot Domination",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 112,
+      "name": "Ronin, Shadow Stalker",
+      "displayName": "Ronin, Shadow Stalker",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 113,
+      "name": "Roxxon Brutes",
+      "displayName": "Roxxon Brutes",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 114,
+      "name": "Stolen Stark Tech",
+      "displayName": "Stolen Stark Tech",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 115,
+      "name": "Super-Skrull",
+      "displayName": "Super-Skrull",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 116,
+      "name": "Swordsman, Sharp Scoundrel",
+      "displayName": "Swordsman, Sharp Scoundrel",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 117,
+      "name": "Thunderbolts Conspiracy",
+      "displayName": "Thunderbolts Conspiracy",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 118,
+      "name": "Too Evil to Stay Dead",
+      "displayName": "Too Evil to Stay Dead",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 119,
+      "name": "Unliving Legionnaire",
+      "displayName": "Unliving Legionnaire",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 120,
+      "name": "Visions of Villainy",
+      "displayName": "Visions of Villainy",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 121,
+      "name": "Whiplash, Vengeful Engineer",
+      "displayName": "Whiplash, Vengeful Engineer",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 122,
+      "name": "Widow's Bite",
+      "displayName": "Widow's Bite",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 123,
+      "name": "Yellowjacket, Heartless Marauder",
+      "displayName": "Yellowjacket, Heartless Marauder",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 124,
+      "name": "Avengers Disassembled",
+      "displayName": "Avengers Disassembled",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 125,
+      "name": "Blazing Crescendo",
+      "displayName": "Blazing Crescendo",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 126,
+      "name": "Crimson Operative",
+      "displayName": "Crimson Operative",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 127,
+      "name": "Death to Our Enemies",
+      "displayName": "Death to Our Enemies",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 128,
+      "name": "Evil's Thrall",
+      "displayName": "Evil's Thrall",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 129,
+      "name": "Fin Fang Foom",
+      "displayName": "Fin Fang Foom",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 130,
+      "name": "Hawkeye, Master Marksman",
+      "displayName": "Hawkeye, Master Marksman",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 131,
+      "name": "Hawkeye, Young Avenger",
+      "displayName": "Hawkeye, Young Avenger",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 132,
+      "name": "Hawkeye's Bow",
+      "displayName": "Hawkeye's Bow",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 133,
+      "name": "Hex Magic",
+      "displayName": "Hex Magic",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 134,
+      "name": "Hire a Crew",
+      "displayName": "Hire a Crew",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 135,
+      "name": "HULK SMASH!",
+      "displayName": "HULK SMASH!",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 136,
+      "name": "Human Torch, Johnny Storm",
+      "displayName": "Human Torch, Johnny Storm",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 137,
+      "name": "HYDRA Assault Robot",
+      "displayName": "HYDRA Assault Robot",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 138,
+      "name": "Iron Fist, Living Weapon",
+      "displayName": "Iron Fist, Living Weapon",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 139,
+      "name": "Jessica Jones, Private Eye",
+      "displayName": "Jessica Jones, Private Eye",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 140,
+      "name": "K'un-Lun Warrior",
+      "displayName": "K'un-Lun Warrior",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 141,
+      "name": "Kree Sentinel",
+      "displayName": "Kree Sentinel",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 142,
+      "name": "Lightning Strike",
+      "displayName": "Lightning Strike",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 143,
+      "name": "Loki Laufeyson",
+      "displayName": "Loki Laufeyson",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 144,
+      "name": "Machinesmith Automaton",
+      "displayName": "Machinesmith Automaton",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 145,
+      "name": "Misty Knight, Hero for Hire",
+      "displayName": "Misty Knight, Hero for Hire",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 146,
+      "name": "Mjölnir, Hammer of Thor",
+      "displayName": "Mjölnir, Hammer of Thor",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 147,
+      "name": "Photon Blast Barrage",
+      "displayName": "Photon Blast Barrage",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 148,
+      "name": "Quicksilver, Brash Blur",
+      "displayName": "Quicksilver, Brash Blur",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 149,
+      "name": "Red Hulk",
+      "displayName": "Red Hulk",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 150,
+      "name": "Repulsor Blast",
+      "displayName": "Repulsor Blast",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 151,
+      "name": "The Scarlet Witch",
+      "displayName": "The Scarlet Witch",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 152,
+      "name": "Speed, Young Avenger",
+      "displayName": "Speed, Young Avenger",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 153,
+      "name": "Stark Industries Executive",
+      "displayName": "Stark Industries Executive",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 154,
+      "name": "Super Speed",
+      "displayName": "Super Speed",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 155,
+      "name": "Team Tactics",
+      "displayName": "Team Tactics",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 156,
+      "name": "Thor, God of Thunder",
+      "displayName": "Thor, God of Thunder",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 157,
+      "name": "Truck Toss",
+      "displayName": "Truck Toss",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 158,
+      "name": "Vision of Love",
+      "displayName": "Vision of Love",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 159,
+      "name": "Volcanic Villain",
+      "displayName": "Volcanic Villain",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 160,
+      "name": "Wonder Man, Hollywood Hero",
+      "displayName": "Wonder Man, Hollywood Hero",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 161,
+      "name": "Ant-Man's Army",
+      "displayName": "Ant-Man's Army",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 162,
+      "name": "Call Damage Control",
+      "displayName": "Call Damage Control",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 163,
+      "name": "Claim the Kingdom",
+      "displayName": "Claim the Kingdom",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 164,
+      "name": "Doc Samson, Super Psychiatrist",
+      "displayName": "Doc Samson, Super Psychiatrist",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 165,
+      "name": "Earth's Mightiest Heroes",
+      "displayName": "Earth's Mightiest Heroes",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 166,
+      "name": "Epic Fight",
+      "displayName": "Epic Fight",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 167,
+      "name": "Giant Growth",
+      "displayName": "Giant Growth",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 168,
+      "name": "Go Nuts!",
+      "displayName": "Go Nuts!",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 169,
+      "name": "Guerrilla Gorilla",
+      "displayName": "Guerrilla Gorilla",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 170,
+      "name": "Hellcat, Undying Vigilante",
+      "displayName": "Hellcat, Undying Vigilante",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 171,
+      "name": "Hercules, Prince of Power",
+      "displayName": "Hercules, Prince of Power",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 172,
+      "name": "Heroic Feast",
+      "displayName": "Heroic Feast",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 173,
+      "name": "Hulkling, Burgeoning Bruiser",
+      "displayName": "Hulkling, Burgeoning Bruiser",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 174,
+      "name": "Ka-Zar of the Savage Land",
+      "displayName": "Ka-Zar of the Savage Land",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 175,
+      "name": "Knight of Wundagore",
+      "displayName": "Knight of Wundagore",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 176,
+      "name": "Mister Hyde, Monster Within",
+      "displayName": "Mister Hyde, Monster Within",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 177,
+      "name": "Mole Man, Moloid Master",
+      "displayName": "Mole Man, Moloid Master",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 178,
+      "name": "Pet Avengers",
+      "displayName": "Pet Avengers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 179,
+      "name": "Powerful Broker",
+      "displayName": "Powerful Broker",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 180,
+      "name": "Punishing Punch",
+      "displayName": "Punishing Punch",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 181,
+      "name": "Rapid Rescue",
+      "displayName": "Rapid Rescue",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 182,
+      "name": "Reptil, Dinomorpher",
+      "displayName": "Reptil, Dinomorpher",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 183,
+      "name": "Restorative Technique",
+      "displayName": "Restorative Technique",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 184,
+      "name": "Rick Jones, Destined Sidekick",
+      "displayName": "Rick Jones, Destined Sidekick",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 185,
+      "name": "Savage Land Dinosaur",
+      "displayName": "Savage Land Dinosaur",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 186,
+      "name": "Serpent Specialist",
+      "displayName": "Serpent Specialist",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 187,
+      "name": "Shang-Chi, Master of Kung Fu",
+      "displayName": "Shang-Chi, Master of Kung Fu",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 188,
+      "name": "She-Hulk, Jade Defender",
+      "displayName": "She-Hulk, Jade Defender",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 189,
+      "name": "Super Strength",
+      "displayName": "Super Strength",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 190,
+      "name": "The Thing, Ben Grimm",
+      "displayName": "The Thing, Ben Grimm",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 191,
+      "name": "Tigra, Feline Fury",
+      "displayName": "Tigra, Feline Fury",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 192,
+      "name": "Training Regimen",
+      "displayName": "Training Regimen",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 193,
+      "name": "The Unbeatable Squirrel Girl",
+      "displayName": "The Unbeatable Squirrel Girl",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 194,
+      "name": "Undercover Skrull",
+      "displayName": "Undercover Skrull",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 195,
+      "name": "Wakandan Royal Guard",
+      "displayName": "Wakandan Royal Guard",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 196,
+      "name": "White Tiger, Ava Ayala",
+      "displayName": "White Tiger, Ava Ayala",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 197,
+      "name": "World War Hulk",
+      "displayName": "World War Hulk",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 198,
+      "name": "Abomination, Terrifying Titan",
+      "displayName": "Abomination, Terrifying Titan",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 199,
+      "name": "Absorbing Man",
+      "displayName": "Absorbing Man",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 200,
+      "name": "Alien Invasion",
+      "displayName": "Alien Invasion",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 201,
+      "name": "Ant-Man, Colony Commander",
+      "displayName": "Ant-Man, Colony Commander",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 202,
+      "name": "Ares, God of War",
+      "displayName": "Ares, God of War",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 203,
+      "name": "Armor Wars",
+      "displayName": "Armor Wars",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 204,
+      "name": "The Astonishing Ant-Man",
+      "displayName": "The Astonishing Ant-Man",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 205,
+      "name": "Avengers: Under Siege",
+      "displayName": "Avengers: Under Siege",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 206,
+      "name": "Beast, Erudite Aerialist",
+      "displayName": "Beast, Erudite Aerialist",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 207,
+      "name": "Black Panther, Vanguard",
+      "displayName": "Black Panther, Vanguard",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 208,
+      "name": "Black Widow, Double Agent",
+      "displayName": "Black Widow, Double Agent",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 209,
+      "name": "Bullseye, Death Dealer",
+      "displayName": "Bullseye, Death Dealer",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 210,
+      "name": "Captain America, Living Legend",
+      "displayName": "Captain America, Living Legend",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 211,
+      "name": "Cloak and Dagger, Entwined",
+      "displayName": "Cloak and Dagger, Entwined",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 212,
+      "name": "The Coming of Galactus",
+      "displayName": "The Coming of Galactus",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 213,
+      "name": "Daredevil, Man Without Fear",
+      "displayName": "Daredevil, Man Without Fear",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 214,
+      "name": "Ghost, Spectral Saboteur",
+      "displayName": "Ghost, Spectral Saboteur",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 215,
+      "name": "Hulk, Gamma Goliath",
+      "displayName": "Hulk, Gamma Goliath",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 216,
+      "name": "Iron Man, Master of Machines",
+      "displayName": "Iron Man, Master of Machines",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 217,
+      "name": "Kang, Temporal Tyrant",
+      "displayName": "Kang, Temporal Tyrant",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 218,
+      "name": "Killmonger, Scourge of Wakanda",
+      "displayName": "Killmonger, Scourge of Wakanda",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 219,
+      "name": "King T'Challa // Black Panther, Hope Enduring",
+      "displayName": "King T'Challa // Black Panther, Hope Enduring",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 220,
+      "name": "The Kingpin of Crime",
+      "displayName": "The Kingpin of Crime",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 221,
+      "name": "Madame Hydra",
+      "displayName": "Madame Hydra",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 222,
+      "name": "The Mighty Thor, Jane Foster",
+      "displayName": "The Mighty Thor, Jane Foster",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 223,
+      "name": "Moon Girl and Devil Dinosaur",
+      "displayName": "Moon Girl and Devil Dinosaur",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 224,
+      "name": "The Ruinous Wrecking Crew",
+      "displayName": "The Ruinous Wrecking Crew",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 225,
+      "name": "Scientist Supreme of A.I.M.",
+      "displayName": "Scientist Supreme of A.I.M.",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 226,
+      "name": "The Serpent Society",
+      "displayName": "The Serpent Society",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 227,
+      "name": "Speedball, New Warrior",
+      "displayName": "Speedball, New Warrior",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 228,
+      "name": "Spider-Man, To the Rescue",
+      "displayName": "Spider-Man, To the Rescue",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 229,
+      "name": "Spider-Woman, Secret Agent",
+      "displayName": "Spider-Woman, Secret Agent",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 230,
+      "name": "Storm, Windrider",
+      "displayName": "Storm, Windrider",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 231,
+      "name": "The Super Hero Civil War",
+      "displayName": "The Super Hero Civil War",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 232,
+      "name": "Taskmaster, Mercenary Mimic",
+      "displayName": "Taskmaster, Mercenary Mimic",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 233,
+      "name": "Thanos, the Mad Titan",
+      "displayName": "Thanos, the Mad Titan",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 234,
+      "name": "Thor Odinson",
+      "displayName": "Thor Odinson",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 235,
+      "name": "Titania, Rugged Rumbler",
+      "displayName": "Titania, Rugged Rumbler",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 236,
+      "name": "U.S.Agent, John Walker",
+      "displayName": "U.S.Agent, John Walker",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 237,
+      "name": "Vision Quest",
+      "displayName": "Vision Quest",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 238,
+      "name": "War Machine, Legacy of Iron",
+      "displayName": "War Machine, Legacy of Iron",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 239,
+      "name": "Winter Soldier, Icy Assassin",
+      "displayName": "Winter Soldier, Icy Assassin",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 240,
+      "name": "Wolverine, Fierce Fighter",
+      "displayName": "Wolverine, Fierce Fighter",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 241,
+      "name": "Worlds Within Worlds",
+      "displayName": "Worlds Within Worlds",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 242,
+      "name": "A.I.M. Synthoids",
+      "displayName": "A.I.M. Synthoids",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 243,
+      "name": "Arc Reactor",
+      "displayName": "Arc Reactor",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 244,
+      "name": "Captain America's Shield",
+      "displayName": "Captain America's Shield",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 245,
+      "name": "Cosmic Cube",
+      "displayName": "Cosmic Cube",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 246,
+      "name": "Dependable Quinjet",
+      "displayName": "Dependable Quinjet",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 247,
+      "name": "H.E.R.B.I.E. Scout Unit",
+      "displayName": "H.E.R.B.I.E. Scout Unit",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 248,
+      "name": "Iron Man Armor",
+      "displayName": "Iron Man Armor",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 249,
+      "name": "S.H.I.E.L.D. Helicarrier",
+      "displayName": "S.H.I.E.L.D. Helicarrier",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 250,
+      "name": "Super-Adaptoid",
+      "displayName": "Super-Adaptoid",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 251,
+      "name": "The Ten Rings",
+      "displayName": "The Ten Rings",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 252,
+      "name": "Ultron, Artificial Malevolence",
+      "displayName": "Ultron, Artificial Malevolence",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 253,
+      "name": "Ultron Drone",
+      "displayName": "Ultron Drone",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 254,
+      "name": "Vibranium Energy Daggers",
+      "displayName": "Vibranium Energy Daggers",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 255,
+      "name": "The Vision",
+      "displayName": "The Vision",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 256,
+      "name": "Viv Vision, Teen Synthezoid",
+      "displayName": "Viv Vision, Teen Synthezoid",
+      "isLand": false
+    },
+    {
+      "page": "main",
+      "row": 257,
+      "name": "A.I.M. Labs",
+      "displayName": "A.I.M. Labs",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 258,
+      "name": "Asgardian Citadel",
+      "displayName": "Asgardian Citadel",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 259,
+      "name": "Avengers Hangar",
+      "displayName": "Avengers Hangar",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 260,
+      "name": "Avengers Tower",
+      "displayName": "Avengers Tower",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 261,
+      "name": "Baxter Building",
+      "displayName": "Baxter Building",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 262,
+      "name": "Birnin Zana Plaza",
+      "displayName": "Birnin Zana Plaza",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 263,
+      "name": "Castle Doom",
+      "displayName": "Castle Doom",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 264,
+      "name": "Dark Fortress",
+      "displayName": "Dark Fortress",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 265,
+      "name": "Fisk Tower",
+      "displayName": "Fisk Tower",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 266,
+      "name": "Gathering Place",
+      "displayName": "Gathering Place",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 267,
+      "name": "Gleaming Bastion",
+      "displayName": "Gleaming Bastion",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 268,
+      "name": "Hell's Kitchen",
+      "displayName": "Hell's Kitchen",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 269,
+      "name": "Hidden Lair",
+      "displayName": "Hidden Lair",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 270,
+      "name": "Los Diablos Missile Base",
+      "displayName": "Los Diablos Missile Base",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 271,
+      "name": "Pym Technologies",
+      "displayName": "Pym Technologies",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 272,
+      "name": "Stark Industries",
+      "displayName": "Stark Industries",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 273,
+      "name": "Subterranean Cavern",
+      "displayName": "Subterranean Cavern",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 274,
+      "name": "Surveillance Room",
+      "displayName": "Surveillance Room",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 275,
+      "name": "Training Compound",
+      "displayName": "Training Compound",
+      "isLand": true
+    },
+    {
+      "page": "main",
+      "row": 276,
+      "name": "Villainous Hideout",
+      "displayName": "Villainous Hideout",
+      "isLand": true
+    },
+    {
+      "page": "mar",
+      "row": 41,
+      "name": "Archangel of Thune",
+      "displayName": "Heaven-Sent Marvel",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 42,
+      "name": "Concerted Effort",
+      "displayName": "Concerted Effort",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 43,
+      "name": "Don't Move",
+      "displayName": "Don't Move",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 44,
+      "name": "Ephemerate",
+      "displayName": "Ephemerate",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 45,
+      "name": "Final Showdown",
+      "displayName": "Final Showdown",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 46,
+      "name": "Light of Promise",
+      "displayName": "Light of Promise",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 47,
+      "name": "Path to Exile",
+      "displayName": "Path to Exile",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 48,
+      "name": "Return to the Ranks",
+      "displayName": "Return to the Ranks",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 49,
+      "name": "Righteous Fury",
+      "displayName": "Righteous Fury",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 50,
+      "name": "Steelshaper's Gift",
+      "displayName": "Steelshaper's Gift",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 51,
+      "name": "Teferi's Protection",
+      "displayName": "T'Challa's Protection",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 52,
+      "name": "Counterspell",
+      "displayName": "Counterspell",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 53,
+      "name": "Cyberdrive Awakener",
+      "displayName": "Cyberdrive Awakener",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 54,
+      "name": "Dig Through Time",
+      "displayName": "Dig Through Time",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 55,
+      "name": "Harbinger of the Seas",
+      "displayName": "Harbinger of the Seas",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 56,
+      "name": "Lord of Atlantis",
+      "displayName": "Lord of Atlantis",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 57,
+      "name": "Mechanized Production",
+      "displayName": "Mechanized Production",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 58,
+      "name": "Narset's Reversal",
+      "displayName": "Black Panther's Redirection",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 59,
+      "name": "Reconnaissance Mission",
+      "displayName": "Reconnaissance Mission",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 60,
+      "name": "Show and Tell",
+      "displayName": "Show and Tell",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 61,
+      "name": "Simulacrum Synthesizer",
+      "displayName": "Simulacrum Synthesizer",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 62,
+      "name": "Three Steps Ahead",
+      "displayName": "Three Steps Ahead",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 63,
+      "name": "Dauthi Voidwalker",
+      "displayName": "Widow-Making Infiltrator",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 64,
+      "name": "Deadly Dispute",
+      "displayName": "Deadly Dispute",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 65,
+      "name": "Extinction Event",
+      "displayName": "Extinction Event",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 66,
+      "name": "Final Act",
+      "displayName": "Final Act",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 67,
+      "name": "Massacre Girl",
+      "displayName": "Elektra, Deadly Assassin",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 68,
+      "name": "No Mercy",
+      "displayName": "No Mercy",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 69,
+      "name": "Chaos Warp",
+      "displayName": "Chaos Warp",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 70,
+      "name": "Fiery Emancipation",
+      "displayName": "Fiery Emancipation",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 71,
+      "name": "Fury of the Horde",
+      "displayName": "Fury of the Horde",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 72,
+      "name": "Monstrous Rage",
+      "displayName": "Monstrous Rage",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 73,
+      "name": "Seize the Day",
+      "displayName": "Seize the Day",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 74,
+      "name": "Bedlam",
+      "displayName": "Bedlam",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 75,
+      "name": "Beast Within",
+      "displayName": "Grimm Fate",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 76,
+      "name": "Defense of the Heart",
+      "displayName": "Defense of the Heart",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 77,
+      "name": "Force of Vigor",
+      "displayName": "Force of Vigor",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 78,
+      "name": "Heroic Intervention",
+      "displayName": "Heroic Intervention",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 79,
+      "name": "Heroic Intervention",
+      "displayName": "Heroic Intervention",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 80,
+      "name": "Heroic Intervention",
+      "displayName": "Heroic Intervention",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 81,
+      "name": "Primal Vigor",
+      "displayName": "Primal Vigor",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 82,
+      "name": "Rancor",
+      "displayName": "Rancor",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 83,
+      "name": "Steely Resolve",
+      "displayName": "Steely Resolve",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 84,
+      "name": "Unnatural Growth",
+      "displayName": "Unnatural Growth",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 85,
+      "name": "Anthem of Champions",
+      "displayName": "Anthem of Champions",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 86,
+      "name": "Aurelia, the Warleader",
+      "displayName": "Monica, the Marvel",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 87,
+      "name": "Black Panther, Wakandan King",
+      "displayName": "Black Panther, Wakandan King",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 88,
+      "name": "Captain America, First Avenger",
+      "displayName": "Captain America, First Avenger",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 89,
+      "name": "Escape to the Wilds",
+      "displayName": "Escape to the Wilds",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 90,
+      "name": "Fight to the Death",
+      "displayName": "Fight to the Death",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 91,
+      "name": "Iron Man, Titan of Innovation",
+      "displayName": "Iron Man, Titan of Innovation",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 92,
+      "name": "Privileged Position",
+      "displayName": "Privileged Position",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 93,
+      "name": "Ravenous Tyrannosaurus",
+      "displayName": "Ravenous Tyrannosaurus",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 94,
+      "name": "Storm, Force of Nature",
+      "displayName": "Storm, Force of Nature",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 95,
+      "name": "Sundering Growth",
+      "displayName": "Sundering Growth",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 96,
+      "name": "Warleader's Call",
+      "displayName": "Warleader's Call",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 97,
+      "name": "Wolverine, Best There Is",
+      "displayName": "Wolverine, Best There Is",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 98,
+      "name": "Horn of Greed",
+      "displayName": "Horn of Greed",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 99,
+      "name": "Roaming Throne",
+      "displayName": "Doom Variant",
+      "isLand": false
+    },
+    {
+      "page": "mar",
+      "row": 100,
+      "name": "Sword of Fire and Ice",
+      "displayName": "Patriotic Shield",
+      "isLand": false
+    }
+  ],
+  "basics": [
+    "Plains",
+    "Island",
+    "Swamp",
+    "Mountain",
+    "Forest"
+  ]
+}

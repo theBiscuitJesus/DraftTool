@@ -1,0 +1,22 @@
+node_modules/
+output/*
+!output/.gitkeep
+inbox/*
+!inbox/.gitkeep
+!inbox/processed/
+inbox/processed/*
+!inbox/processed/.gitkeep
+scratch/
+
+# Local dev config + the legacy in-repo skill. The canonical, shipped skill is
+# skills/scan-decklist/ (loaded when this repo is installed as a plugin).
+.claude/
+.superpowers/
+
+# Real event photos and player decklists — kept local, never published to the
+# shared plugin repo (privacy). Not needed by the plugin or the test suite.
+tests/fixtures/photos/
+handoff/
+
+# dist/ is intentionally committed — it is the zero-dependency runtime the
+# plugin ships, so teammates need only Node (no build, no npm install).

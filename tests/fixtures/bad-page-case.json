@@ -1,0 +1,7 @@
+{
+  "page": "MAIN",
+  "photo": "x.jpg",
+  "rows": [
+    { "row": 42, "total": 3, "played": 3, "confidence": "high" }
+  ]
+}

@@ -1,0 +1,55 @@
+import type { Decklist } from './assemble.js'
+
+export type Issue = { severity: 'error' | 'warning'; message: string }
+
+// The drafted-pool total is format-specific (a 42-card sealed pool, a ~45-card
+// draft, etc.). `expectedPool` defaults to 42 to preserve the MSH sealed-event
+// behavior; pass a different number for another format, or null to skip the
+// check entirely (e.g. drafts, where pool size varies). The 40-card played
+// check is universal to limited and always runs.
+export type ValidateOptions = { expectedPool?: number | null }
+
+export function playedTotal(deck: Decklist): number {
+  return [...deck.cards, ...deck.basics].reduce((sum, c) => sum + c.qty, 0)
+}
+
+export function validate(deck: Decklist, opts: ValidateOptions = {}): Issue[] {
+  const expectedPool = opts.expectedPool === undefined ? 42 : opts.expectedPool
+  const issues: Issue[] = []
+  const total = playedTotal(deck)
+
+  if (total !== 40) {
+    let message = `PLAYED column sums to ${total}, expected exactly 40`
+    if (total < 40 && !deck.hasMarPage) message += ' — is there a MAR bonus-sheet page for this player?'
+    issues.push({ severity: 'error', message })
+  }
+
+  const lands = [...deck.cards, ...deck.basics].filter(c => c.isLand).reduce((s, c) => s + c.qty, 0)
+  if (lands < 14 || lands > 20) {
+    issues.push({ severity: 'warning', message: `${lands} lands is unusual for limited (typical is 16-18)` })
+  }
+
+  if (expectedPool !== null && deck.poolTotal !== expectedPool) {
+    issues.push({
+      severity: 'error',
+      message: `drafted pool (TOTAL column, basics excluded) sums to ${deck.poolTotal}, expected exactly ${expectedPool} — a TOTAL digit is misread or a page is missing`,
+    })
+  }
+
+  for (const lc of deck.lowConfidence) {
+    let message = `low-confidence read: ${lc.name} (row ${lc.row}, ${lc.page} page)`
+    if (lc.note) message += `: ${lc.note}`
+    issues.push({ severity: 'warning', message })
+  }
+
+  for (const w of deck.warnings) issues.push({ severity: 'warning', message: w })
+
+  const { lastName, table, last3 } = deck.player
+  if (last3 && lastName && !lastName.toLowerCase().startsWith(last3.toLowerCase())) {
+    issues.push({ severity: 'warning', message: `last-3-letters box "${last3}" does not match last name "${lastName}"` })
+  }
+  if (!lastName) issues.push({ severity: 'warning', message: 'player last name missing (needed for output filename)' })
+  if (!table) issues.push({ severity: 'warning', message: 'table number missing (needed for output filename)' })
+
+  return issues
+}

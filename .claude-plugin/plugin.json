@@ -1,0 +1,11 @@
+{
+  "name": "mtg-decklist",
+  "displayName": "MTG Decklist Scanner",
+  "description": "Read handwritten Magic: The Gathering limited decklist checklist sheets from photos and export them to CSV. Card names come from the printed checklist (never misread); only the handwritten TOTAL/PLAYED digits are read, then validated to a 40-card deck.",
+  "version": "0.1.0",
+  "author": { "name": "theBiscuitJesus" },
+  "homepage": "https://github.com/theBiscuitJesus/DraftTool",
+  "repository": "https://github.com/theBiscuitJesus/DraftTool",
+  "license": "MIT",
+  "keywords": ["mtg", "magic-the-gathering", "decklist", "ocr", "csv", "limited"]
+}
